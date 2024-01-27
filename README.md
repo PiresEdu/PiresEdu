@@ -11,6 +11,7 @@
 </pre>
  
 <div>
+  <img style="rigth" alt="Edu-BabyYoda" height="180" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJheWRnejR6YmYwMTB3MHljdzFjNzR3ZGhtbjg0d2p5bW1kYXlhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wn74RUT0vjnoU98Hnt/giphy.gif">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piresedu&layout=compact&theme=apprentice"/>
   <img style="rigth" alt="Edu-miranha" height="180" width="250" src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif">
 </div><br>
