@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=1500&pause=500&color=F7F644&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&width=575&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+Pires%F0%9F%91%8B;Seja+bem-vindo!;Hoje+sou+estagi%C3%A1rio+na+Ingredion+%F0%9F%8C%BD;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+USJT%F0%9F%8E%93)](https://git.io/typing-svg)
 
+
+
 **Minhas habilidades 🚀**                                                                 **Minhas metas 🌟**
 
 <pre>
