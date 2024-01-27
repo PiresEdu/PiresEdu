@@ -17,6 +17,7 @@
 <div align=“center”> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piresedu&show_icons=true&theme=apprentice"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piresedu&layout=compact&theme=apprentice"/>
+  <img algin="rigth" alt="Edu-hello" height="180" width="240" src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif">
 </div>
 
 <div style="display: inline_block"><br> 
@@ -30,10 +31,11 @@
   <img algin="center" alt="Edu-arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"">
 </div>
 
-## 
+## Minhas Redes Sociais
 
 <div>
-  <a href="https://www.linkedin.com/in/eduardolpires/" target="_blank"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/piresedu_/" target="_blank"><img scr="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="malito:eduardopires998@gmail.com" target="_blank"><img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduardolpires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:eduardopires998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/piresedu_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
