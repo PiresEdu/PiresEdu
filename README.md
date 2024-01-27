@@ -31,7 +31,7 @@
   <img algin="rigth" alt="Edu-hello" height="180" width="240" src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif">
 </div>
 
-## Minhas Redes Sociais
+**Minhas Redes Sociais**
 
 <div>
   <a href="https://www.linkedin.com/in/eduardolpires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
