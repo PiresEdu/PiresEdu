@@ -17,7 +17,6 @@
 <div align=“center”> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piresedu&show_icons=true&theme=apprentice"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piresedu&layout=compact&theme=apprentice"/>
-  <img algin="rigth" alt="Edu-hello" height="180" width="240" src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif">
 </div>
 
 <div style="display: inline_block"><br> 
@@ -28,7 +27,8 @@
   <img algin="center" alt="Edu-c++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
   <img algin="center" alt="Edu-py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
   <img algin="center" alt="Edu-sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-  <img algin="center" alt="Edu-arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"">
+  <img algin="center" alt="Edu-arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg""> 
+  <img algin="rigth" alt="Edu-hello" height="180" width="240" src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif">
 </div>
 
 ## Minhas Redes Sociais
