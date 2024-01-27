@@ -32,6 +32,6 @@
 
 ## Minhas Redes Sociais 
 
-  [![Imagem do LinkedIn](./ImagemLinkedin.svg)](https://www.linkedin.com/in/eduardolpires/)
-  [![Imagem do Instagram](./ImagemInstagram.svg)](https://www.instagram.com/piresedu/)
-  [![Imagem do Gmail](./ImagemGmail.svg)](mailto:eduardopires998@gmail.com)
+  <a href="https://www.linkedin.com/in/eduardolpires/"><img src="./ImagemLinkedin.svg" alt="Imagem do LinkedIn" width="60" height="50"></a>
+  <a href="https://www.instagram.com/piresedu/"><img src="./ImagemInstagram.svg" alt="Imagem do Instagram" width="60" height="50"></a>
+  <a href="mailto:eduardopires998@gmail.com"><img src="./ImagemGmail.svg" alt="Imagem do Gmail" width="60" height="50"></a>
