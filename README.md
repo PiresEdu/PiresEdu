@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00088&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=F7E613&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=575&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+Pires%F0%9F%91%8B;Seja+bem-vindo!;Hoje+sou+estagi%C3%A1rio+na+Ingredion+%F0%9F%8C%BD;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+USJT%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=1500&pause=500&color=F7F644&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=575&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+Pires%F0%9F%91%8B;Seja+bem-vindo!;Hoje+sou+estagi%C3%A1rio+na+Ingredion+%F0%9F%8C%BD;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+USJT%F0%9F%8E%93)](https://git.io/typing-svg)
 
 
 **Minhas habilidades 🚀**                                                                 **Minhas metas 🌟**
@@ -28,7 +28,7 @@
     <img style="center" alt="Edu-sql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
 </div><br>
 
-**Minhas Redes Sociais**<br>
+**Minhas Redes Sociais** <img style="center" alt="Edu-java" height="20" width="20" src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif"><br>
 <br>
 
  <a href="https://www.linkedin.com/in/eduardolpires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
