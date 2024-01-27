@@ -32,9 +32,5 @@
 
 ## Minhas Redes Sociais 
 
-<div>
-  <a href="https://www.linkedin.com/in/eduardolpires/" target="_blank"><img algin="center" alt="Edu-linkedin" height="40" width="50" src="" target="_blank"></a>
-    
-</div>
-
+  [![Imagem do LinkedIn](./ImagemLinkedin.svg)](https://www.linkedin.com/in/eduardolpires/)
 
