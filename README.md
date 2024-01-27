@@ -15,9 +15,8 @@
 </pre>
  
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piresedu&show_icons=true&theme=apprentice"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piresedu&layout=compact&theme=apprentice"/>
-  <img style="rigth" alt="Edu-miranha" height="180" width="240" src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif">
+  <img style="rigth" alt="Edu-miranha" height="180" width="250" src="https://media.giphy.com/media/BWD3CtcudWL28/giphy.gif">
 </div><br>
 
 <div>
@@ -28,9 +27,7 @@
     <img style="center" alt="Edu-c++" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
     <img style="center" alt="Edu-py" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
     <img style="center" alt="Edu-sql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
-    <img style="center; margin-right: 20px;" alt="Edu-arduino" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div><br>
-
 
 **Minhas Redes Sociais**<br>
 <br>
