@@ -1,8 +1,7 @@
-## Olá! Eu sou o Eduardo Pires👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00088&height=120&section=header"/>
 
-- Hoje sou estagiário na Ingredion 🌽
-- Estudante de Engenharia da Computação na USJT🎓
-- Aprendendo Inglês 📚
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=500&color=F7E613&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=575&lines=Ol%C3%A1!+Eu+sou+o+Eduardo+Pires%F0%9F%91%8B;Seja+bem-vindo!;Hoje+sou+estagi%C3%A1rio+na+Ingredion+%F0%9F%8C%BD;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+na+USJT%F0%9F%8E%93)](https://git.io/typing-svg)
+
 
 **Minhas habilidades 🚀**                                                                 **Minhas metas 🌟**
 
