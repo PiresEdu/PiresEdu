@@ -30,8 +30,10 @@
   <img algin="center" alt="Edu-arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"">
 </div>
 
-## Minhas Redes Sociais 
+## 
 
-  <a href="https://www.linkedin.com/in/eduardolpires/"><img src="./ImagemLinkedin.svg" alt="Imagem do LinkedIn" width="60" height="50"></a>
-  <a href="https://www.instagram.com/piresedu/"><img src="./ImagemInstagram.svg" alt="Imagem do Instagram" width="60" height="50"></a>
-  <a href="mailto:eduardopires998@gmail.com"><img src="./ImagemGmail.svg" alt="Imagem do Gmail" width="60" height="50"></a>
+<div>
+  <a href="https://www.linkedin.com/in/eduardolpires/" target="_blank"><img scr="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/piresedu_/" target="_blank"><img scr="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="malito:eduardopires998@gmail.com" target="_blank"><img scr="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
