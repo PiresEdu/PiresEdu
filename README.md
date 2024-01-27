@@ -25,7 +25,7 @@
     <img style="center" alt="Edu-sql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
 </div><br>
 
-**Minhas Redes Sociais** <img style="center" alt="Edu-java" height="20" width="20" src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif"><br>
+## **Minhas Redes Sociais** <img style="center" alt="Edu-java" height="20" width="20" src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif"><br>
 <br>
 
  <a href="https://www.linkedin.com/in/eduardolpires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a> 
