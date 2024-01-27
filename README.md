@@ -33,4 +33,5 @@
 ## Minhas Redes Sociais 
 
   [![Imagem do LinkedIn](./ImagemLinkedin.svg)](https://www.linkedin.com/in/eduardolpires/)
-
+  [![Imagem do Instagram](./ImagemInstagram.svg)](https://www.instagram.com/piresedu/)
+  [![Imagem do Gmail](./ImagemGmail.svg)](mailto:eduardopires998@gmail.com)
