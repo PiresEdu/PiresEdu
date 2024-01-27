@@ -4,14 +4,14 @@
 - Estudante de Engenharia da Computação na USJT🎓
 - Aprendendo Inglês 📚
 
-**Minhas habilidades 🚀**                                                                                  **Minhas metas 🌟**
+**Minhas habilidades 🚀**                                                                 **Minhas metas 🌟**
 
 <pre>
-- Linguagens de programação: Python e Java                        - Me formar em Engenharia da Computação com excelência  
-- Microcontroladores: Arduino, ESP32, Raspberry Pi                - Conseguir um emprego na área de desenvolvimento de software 
-- Ferramentas: Git, GitHub, VS Code, PyCharm                      - Contribuir para projetos de código aberto 
-- Tecnologias: IoT, Machine Learning, Web Development             - Criar soluções que impactem positivamente a sociedade 
-                                                                  - Viajar pelo mundo e conhecer novas culturas  
+- Linguagens de programação: Python e Java                - Me formar em Engenharia da Computação com excelência  
+- Microcontroladores: Arduino, ESP32, Raspberry Pi        - Conseguir um emprego na área de desenvolvimento de software 
+- Ferramentas: Git, GitHub, VS Code, PyCharm              - Contribuir para projetos de código aberto 
+- Tecnologias: IoT, Machine Learning, Web Development     - Criar soluções que impactem positivamente a sociedade 
+                                                          - Viajar pelo mundo e conhecer novas culturas  
 </pre>
  
 <div align=“center”> 
