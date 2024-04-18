@@ -5,9 +5,10 @@
 <pre>
 - Linguagens de programação: Python, Java, C++            - Me formar em Engenharia da Computação com excelência  
 - Microcontroladores: Arduino, ESP32                      - Conseguir um emprego na área de desenvolvimento de software 
-- Ferramentas: Git, GitHub, VS Code, PyCharm              - Contribuir para projetos de código aberto 
-- Tecnologias: IoT, Machine Learning, Web Development     - Criar soluções que impactem positivamente a sociedade 
-                                                          - Viajar pelo mundo e conhecer novas culturas  
+- Ferramentas: Git, GitHub, VS Code, PyCharm, Salesforce, - Contribuir para projetos de código aberto
+ SAP, Power Automate                                      - Criar soluções que impactem positivamente a sociedade
+- Tecnologias: IoT, Machine Learning, Web Development     - Viajar pelo mundo e conhecer novas culturas 
+                                                            
 </pre>
  
 <div>
